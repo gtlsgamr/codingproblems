@@ -1,4 +1,4 @@
-baseURL = "https://gohugo.io"
+baseURL = "https://codingproblems.netlify.app"
 title = "Coding Problems"
 theme="sk2"
 author = "Hitarth Thummar"
