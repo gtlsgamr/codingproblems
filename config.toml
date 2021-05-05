@@ -1,15 +1,25 @@
 baseURL = "https://codingproblems.netlify.app"
 title = "Coding Problems"
-theme="sk2"
+theme="hugo-theme-sk3"
 author = "Hitarth Thummar"
 copyright = "Free use for all //"
-paginate = 7
-languageCode = "en"
+enableGitInfo = true
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
+languageCode           = "en"
+paginate               = 15
+disqusShortname = "codingproblems.disqus.com"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
+
+[Params.color]
+bg     = "white"
+border = "black"
+link   = "#3d84ff"
+text   = "black"
+
+
 [menu]
 
   [[menu.main]]

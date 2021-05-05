@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Coding Problems</title>
-    <link>https://gohugo.io/series/</link>
+    <link>https://codingproblems.netlify.app/series/</link>
     <description>Recent content in Series on Coding Problems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Free use for all //</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://codingproblems.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>https://gohugo.io/series/themes-guide/</link>
+      <link>https://codingproblems.netlify.app/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo.io/series/themes-guide/</guid>
+      <guid>https://codingproblems.netlify.app/series/themes-guide/</guid>
       <description></description>
     </item>
     

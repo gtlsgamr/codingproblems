@@ -1,25 +1,12 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "About codingproblems"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "GtlsGamr"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+This is a personal project that aims to be a place where people can post coding questions/problems that they need solved and get answers for them. It also acts as a place for people looking to hone their skills where they will get a chance to write code for problems that need some brainstorming.
 
-Hugo makes use of a variety of open source projects including:
+This site is free, ***free as in freedom***.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+The source code for this site is available [on GitHub](https://github.com/gtlsgamr/codingproblems). You can add your own questions/problems by creating a pull request on this repo. The site is made using hugo so the question format has to be markdown. There is already an  example post in the `content/post` directory of the repo which can be used as a template. Here's to hoping that this site will be useful to poeple. 
