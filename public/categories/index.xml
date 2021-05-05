@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Free use for all //</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://codingproblems.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://codingproblems.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>example</title>
+      <link>https://codingproblems.netlify.app/categories/example/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://codingproblems.netlify.app/categories/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>https://codingproblems.netlify.app/categories/meta/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://codingproblems.netlify.app/categories/meta/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>syntax</title>
       <link>https://codingproblems.netlify.app/categories/syntax/</link>

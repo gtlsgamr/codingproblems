@@ -7,20 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Free use for all //</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://codingproblems.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://codingproblems.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://codingproblems.netlify.app/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>guide</title>
+      <link>https://codingproblems.netlify.app/tags/guide/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://codingproblems.netlify.app/tags/css/</guid>
+      <guid>https://codingproblems.netlify.app/tags/guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
       <link>https://codingproblems.netlify.app/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://codingproblems.netlify.app/tags/html/</guid>
       <description></description>
@@ -29,45 +29,18 @@
     <item>
       <title>markdown</title>
       <link>https://codingproblems.netlify.app/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://codingproblems.netlify.app/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>privacy</title>
-      <link>https://codingproblems.netlify.app/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>css</title>
+      <link>https://codingproblems.netlify.app/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://codingproblems.netlify.app/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://codingproblems.netlify.app/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://codingproblems.netlify.app/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://codingproblems.netlify.app/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://codingproblems.netlify.app/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://codingproblems.netlify.app/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://codingproblems.netlify.app/tags/emoji/</guid>
+      <guid>https://codingproblems.netlify.app/tags/css/</guid>
       <description></description>
     </item>
     

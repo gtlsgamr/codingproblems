@@ -12,6 +12,7 @@ categories = [
     "example",
     "meta",
 ]
+comments=true
 +++
 
 ***You can enter your post here, just follow the below guide.***
