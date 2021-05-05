@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://codingproblems.netlify.app/categories/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/categories/example/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <loc>/categories/example/</loc>
+    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/tags/guide/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <loc>/tags/guide/</loc>
+    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/tags/html/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <loc>/tags/html/</loc>
+    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/tags/markdown/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/categories/meta/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <loc>/categories/meta/</loc>
+    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/post/example/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <loc>/post/example/</loc>
+    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/tags/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/post/markdown-syntax/</loc>
+    <loc>/post/markdown-syntax/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/series/themes-guide/</loc>
+    <loc>/series/themes-guide/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2021-05-05T21:56:56+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/</loc>
+    <loc>/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/tags/index/</loc>
+    <loc>/tags/index/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>https://codingproblems.netlify.app/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url>
 </urlset>

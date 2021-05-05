@@ -1,6 +1,6 @@
-baseURL = "https://codingproblems.netlify.app"
+baseURL = "/"
 title = "Coding Problems"
-theme="hugo-theme-sk3"
+theme="harbor"
 author = "Hitarth Thummar"
 copyright = "Free use for all //"
 enableGitInfo = true
@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 languageCode           = "en"
 paginate               = 15
-disqusShortname = "codingproblems.disqus.com"
+disqusShortname = "codingproblems"
 ignoreErrors = ["error-remote-getjson"]
 
 [Params.color]

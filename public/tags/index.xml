@@ -1,57 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Coding Problems</title>
-    <link>https://codingproblems.netlify.app/tags/</link>
-    <description>Recent content in Tags on Coding Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Free use for all //</copyright>
-    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://codingproblems.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>guide</title>
-      <link>https://codingproblems.netlify.app/tags/guide/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://codingproblems.netlify.app/tags/guide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://codingproblems.netlify.app/tags/html/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://codingproblems.netlify.app/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://codingproblems.netlify.app/tags/markdown/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://codingproblems.netlify.app/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://codingproblems.netlify.app/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://codingproblems.netlify.app/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>https://codingproblems.netlify.app/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://codingproblems.netlify.app/tags/index/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tags on Coding Problems</title>
+		<link>/tags/</link>
+		<description>Recent content in Tags </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en</language>
+		
+		<managingEditor>Page(/tags)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Posting Guide</title>
+			<link>/post/example/</link>
+			<pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+			<guid>/post/example/</guid>
+			<description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;You can enter your post here, just follow the below guide.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+		</item>
+      	
+		<item>
+			<title>Markdown Syntax Guide</title>
+			<link>/post/markdown-syntax/</link>
+			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+			<guid>/post/markdown-syntax/</guid>
+			<description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+		</item>
+      	
+	</channel>
 </rss>
