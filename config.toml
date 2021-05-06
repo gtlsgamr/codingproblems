@@ -1,6 +1,6 @@
 baseURL = "/"
 title = "Coding Problems"
-theme="hugo-theme-sk2"
+theme="hugo-theme-sk3"
 author = "Hitarth Thummar"
 copyright = "Free use for all //"
 enableGitInfo = true
