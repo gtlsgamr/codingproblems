@@ -16,7 +16,8 @@ comments=true
 +++
 
 ***You can enter your post here, just follow the below guide.***
-
+1. Create a pull request and copy the contents of this file in a new file for your problem.
+2. Follow the below guide by hugo authors to write the question in markdown format.
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
