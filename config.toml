@@ -8,6 +8,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 languageCode           = "en"
 paginate               = 15
+toc=false
 #disqusShortname = "codingproblems"
 #ignoreErrors = ["error-remote-getjson"]
 disable_comments=true
