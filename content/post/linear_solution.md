@@ -3,7 +3,6 @@ author = "GtlsGamr, hugo authors"
 title = "Linear equation solution"
 date = "2021-05-06"
 description = "Given a linear equation of n variables..."
-E"
 tags = [
     "guide",
     "markdown",
