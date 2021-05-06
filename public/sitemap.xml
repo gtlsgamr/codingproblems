@@ -3,27 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
+    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
   </url><url>
     <loc>/categories/example/</loc>
-    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
+    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
   </url><url>
     <loc>/tags/guide/</loc>
-    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
+    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
   </url><url>
     <loc>/tags/html/</loc>
-    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
+    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
+  </url><url>
+    <loc>/post/linear_solution/</loc>
+    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
   </url><url>
     <loc>/tags/markdown/</loc>
-    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
+    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
   </url><url>
     <loc>/categories/meta/</loc>
-    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
-  </url><url>
-    <loc>/post/example/</loc>
-    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
+    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
+  </url><url>
+    <loc>/post/example/</loc>
     <lastmod>2021-05-05T22:14:18+05:30</lastmod>
   </url><url>
     <loc>/archives/</loc>

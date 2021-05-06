@@ -2,6 +2,7 @@
 title = "About"
 description = "About codingproblems"
 date = "2019-02-28"
+comment=false
 author = "GtlsGamr"
 +++
 
