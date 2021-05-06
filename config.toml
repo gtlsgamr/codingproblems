@@ -1,6 +1,6 @@
 baseURL = "/"
 title = "Coding Problems"
-theme="harbor"
+theme="hugo-theme-sk3"
 author = "Hitarth Thummar"
 copyright = "Free use for all //"
 enableGitInfo = true
@@ -8,8 +8,10 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 languageCode           = "en"
 paginate               = 15
-disqusShortname = "codingproblems"
-ignoreErrors = ["error-remote-getjson"]
+#disqusShortname = "codingproblems"
+#ignoreErrors = ["error-remote-getjson"]
+disable_comments=true
+disqus=false
 
 [Params.color]
 bg     = "white"
