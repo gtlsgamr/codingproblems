@@ -2,7 +2,7 @@
 author = "GtlsGamr, hugo authors"
 title = "Linear equation solution"
 date = "2021-05-06"
-description = "Given a linear equation of n variables, find number of non-negative integer solutions of it. For example,let the given equation be “x + 2y = 5”, solutions of this equation are “x = 1, y = 2”, “x = 5, y = 0” and “x = 1. It may be assumed that all coefficients in given equation are positive integers.
+description = "Given a linear equation of n variables..."
 E"
 tags = [
     "guide",
