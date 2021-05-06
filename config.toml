@@ -19,6 +19,9 @@ border = "black"
 link   = "#3d84ff"
 text   = "black"
 
+[Params.card]
+date    = true
+summary = true
 
 [menu]
 
