@@ -68,7 +68,7 @@
 <div class='form-message' style="color:green"></div>
 
 <!-- Comments test -->
-<script>
+<!--<script>
 const processForm = form => {
   var msg = document.querySelector('.form-message');
   const data = new FormData(form)
@@ -78,10 +78,10 @@ const processForm = form => {
     body: data,
   })
   .then(() => {
-    msg.innerHTML = `<div class="form--success">Almost there! Check your inbox for a confirmation e-mail.</div>`;
+    msg.innerHTML = `<div class="formsuccess">Almost there! Check your inbox for a confirmation e-mail.</div>`;
   })
   .catch(error => {
-    msg.innerHTML = `<div class="form--error">Error: ${error}</div>`;
+    msg.innerHTML = `<div class="formerror">Error: ${error}</div>`;
   })
 }
 
@@ -93,6 +93,6 @@ if (emailForm) {
     processForm(emailForm);
   })
 }
-</script>
+</script>-->
 </div>
 {{end}}
