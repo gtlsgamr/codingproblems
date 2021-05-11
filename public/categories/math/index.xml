@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math on Coding Problems</title>
+    <link>/categories/math/</link>
+    <description>Recent content in math on Coding Problems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Free use for all //</copyright>
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linear equation solution</title>
+      <link>/post/linear_solution/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/linear_solution/</guid>
+      <description>Given a linear equation of n variables, find number of non-negative integer solutions of it. For example,let the given equation be “x + 2y = 5”, solutions of this equation are “x = 1, y = 2”, “x = 5, y = 0” and “x = 1. It may be assumed that all coefficients in given equation are positive integers. Example :
+Input: coeff[] = {1, 2}, rhs = 5 Output: 3 The equation &amp;quot;x + 2y = 5&amp;quot; has 3 solutions.</description>
+    </item>
+    
+  </channel>
+</rss>

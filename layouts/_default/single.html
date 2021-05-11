@@ -1,0 +1,98 @@
+{{define "main"}}
+<div class="main">
+
+	<div></div>
+
+	<!--Title-->
+	{{with .Title}}
+	<heading>
+		<h2>{{.}}</h2>
+	</heading>
+	{{end}}
+
+	<div></div>
+
+	<!--TOC-->
+	{{if (default true .Params.toc)}}
+	{{if and (ge (len .TableOfContents) 100) (ne .Params.toc "false")}}
+	<section class="box sk3-margin-v-full">
+		<div class="collapsible">☰ Table of Content</div>
+		<sk3-toc>{{.TableOfContents}}</sk3-toc>
+	</section>
+	{{end}}
+	{{end}}
+
+	<!--Content-->
+	{{with .Content}}<content class="sk3-margin-v-full">{{.}}</content>{{end}}
+
+	<div></div>
+
+	<!--Page Info-->
+	<section class="sk3-margin-v-full">
+		{{if site.Params.pageinfobox}}
+		{{partial "pageinfo-box.html" .}}
+		{{else}}
+		{{partial "pageinfo.html" .}}
+		{{end}}
+	</section>
+
+	<div></div>
+<a href="#solution">View comments</a>
+<div height="700" style="top:700px;padding-top:300px;"></div>
+	<!--Disqus-->
+<!--<p id="solution"></p>
+<script src="https://utteranc.es/client.js"
+        repo="gtlsgamr/codingproblems"
+        issue-term="url"
+        label="✨💬✨"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>-->
+
+<!-- Comments test -->
+ 
+<form name="comments" class='comments-form' method="POST" data-netlify="true" netlify-honeypot="bot-field">
+  <div hidden aria-hidden="true">
+    <label>
+      Don’t fill this out if you're human: 
+      <input name="bot-field" />
+    </label>
+  </div>
+  <label for="Name">Your Name</label>
+  <div>
+    <input type="text" name="comment" placeholder="Enter your comment here"  id="comment" required />
+    <button type="submit">Submit</button>
+  </div>
+</form>
+<div class='form-message' style="color:green"></div>
+
+<!-- Comments test -->
+<script>
+const processForm = form => {
+  var msg = document.querySelector('.form-message');
+  const data = new FormData(form)
+  data.append('form-name', 'comments');
+  fetch('/', {
+    method: 'POST',
+    body: data,
+  })
+  .then(() => {
+    msg.innerHTML = `<div class="form--success">Almost there! Check your inbox for a confirmation e-mail.</div>`;
+  })
+  .catch(error => {
+    msg.innerHTML = `<div class="form--error">Error: ${error}</div>`;
+  })
+}
+
+
+const emailForm = document.querySelector('.comments-form')
+if (emailForm) {
+  emailForm.addEventListener('submit', e => {
+    e.preventDefault();
+    processForm(emailForm);
+  })
+}
+</script>
+</div>
+{{end}}

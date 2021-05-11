@@ -9,9 +9,18 @@
     <copyright>Free use for all //</copyright>
     <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>algebra</title>
+      <link>/tags/algebra/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>guide</title>
       <link>/tags/guide/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/guide/</guid>
       <description></description>
@@ -20,7 +29,7 @@
     <item>
       <title>html</title>
       <link>/tags/html/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/html/</guid>
       <description></description>
@@ -29,18 +38,9 @@
     <item>
       <title>markdown</title>
       <link>/tags/markdown/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
