@@ -12,3 +12,6 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.81.0"
+
+[[plugins]]
+package= "@netlify/plugin-functions-install-core"
