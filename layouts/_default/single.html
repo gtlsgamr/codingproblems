@@ -52,14 +52,8 @@
 
 <!-- Comments test -->
  
-<form name="comments" class='comments-form' method="POST" data-netlify="true" action="/.netlify/functions/hello" netlify-honeypot="bot-field">
-  <div hidden aria-hidden="true">
-    <label>
-      Don’t fill this out if you're human: 
-      <input name="bot-field" />
-    </label>
-  </div>
-  
+<form name="comments" class='comments-form' method="POST" action="/.netlify/functions/hello" >
+ 
 <label for="Name">Alias</label>
   <div>
     <input type="text" name="name" placeholder="Enter your alias here"  id="name" required />
