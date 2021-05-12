@@ -67,6 +67,7 @@
 	<link rel="stylesheet" href="{{.|relURL}}">
 	{{end}}
 
+	<link rel="stylesheet" href="/css/comments.css">
 	<!--script - SK3-->
 	{{if or site.Menus.main site.Params.socialshare (default true .Params.toc)}}
 	<script>
@@ -83,6 +84,10 @@
 	{{range site.Params.custom_js}}
 	<script src="{{.|relURL}}"></script>
 	{{end}}
+	
+	
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	<script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
 	<!--script - Hugo-->
 	<script>
 		/*

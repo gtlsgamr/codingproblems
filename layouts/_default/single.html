@@ -6,7 +6,7 @@
 	<!--Title-->
 	{{with .Title}}
 	<heading>
-		<h2>{{.}}</h2>
+	<h2>{{.}}</h2>
 	</heading>
 	{{end}}
 
@@ -37,61 +37,41 @@
 	</section>
 
 	<div></div>
-<a href="#solution">View comments</a>
-<div height="700" style="top:700px;padding-top:300px;"></div>
-	<!--Disqus-->
-<!--<p id="solution"></p>
-<script src="https://utteranc.es/client.js"
-        repo="gtlsgamr/codingproblems"
-        issue-term="url"
-        label="✨💬✨"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>-->
-
-<!-- Comments test -->
- 
-<form name="comments" class='comments-form' method="POST" action="/.netlify/functions/hello" >
- 
-<label for="Name">Alias</label>
-  <div>
-    <input type="text" name="name" placeholder="Enter your alias here"  id="name" required />
-
-  <label for="Name">Enter Comment</label>
-  <div>
-	  <textarea type="text" name="comment" placeholder="Enter your comment here"  id="comment" required> Enter comments, Markdown is supported </textarea>
-    <button type="submit">Submit</button>
-  </div>
-</form>
-<div class='form-message' style="color:green"></div>
-
-<!-- Comments test -->
-<!--<script>
-const processForm = form => {
-  var msg = document.querySelector('.form-message');
-  const data = new FormData(form)
-  data.append('form-name', 'comments');
-  fetch('/', {
-    method: 'POST',
-    body: data,
-  })
-  .then(() => {
-    msg.innerHTML = `<div class="formsuccess">Almost there! Check your inbox for a confirmation e-mail.</div>`;
-  })
-  .catch(error => {
-    msg.innerHTML = `<div class="formerror">Error: ${error}</div>`;
-  })
-}
+	<form name="comments" class='comments-form'>
+		<div><h3>Post Comment</h3></div>
+		<div>
+			<input type="text" class='comment-field' name="alias" placeholder="Enter your name here"  id="alias" style="" required />
+		</div>
+		<div>
+			<textarea type="text"  name="comment" placeholder="Enter your comment here"  id="comment" placeholder=" Enter comments, Markdown is supported" required > </textarea>
+		</div><div>    
+			<button type="button" onclick="jsonCreator(alias.value,comment.value)" id="comment-button">Submit</button>
+		</div>
+	</form>
 
 
-const emailForm = document.querySelector('.comments-form')
-if (emailForm) {
-  emailForm.addEventListener('submit', e => {
-    e.preventDefault();
-    processForm(emailForm);
-  })
-}
-</script>-->
+	<a href="#solution">View comments</a>
+	<div height="700" style="top:700px;padding-top:300px;"></div>
+	<!-- Fetched Comments -->
+	
+	<div id='solution' class="commentslist"> 	
+		<!--<div class='comments-dest'>
+	
+		<p class='comments-header'>
+		Alias
+		</p>
+		<p class='comments-content'>
+		This is the lorem ipsum comment that I have entered in here and it is to test whether or not I am able to enter a comment here
+		</p>
+		<p class='comments-time'>
+		20th July, 1999 - 5:30 GMT
+		</p>
+		</div>--></div>
+
+
+	<!-- Comments test -->
+
+	<script src="/js/comments.js"></script>
+	<script src="/js/comments-data.js"></script>
 </div>
 {{end}}

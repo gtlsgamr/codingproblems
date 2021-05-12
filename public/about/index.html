@@ -275,22 +275,20 @@
 
 
  
-<form name="comments" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-  <div hidden aria-hidden="true">
-    <label>
-      Don’t fill this out if you're human: 
-      <input name="bot-field" />
-    </label>
-  </div>
-  <label for="Name">Your Name</label>
+<form name="comments" class='comments-form'>
+ 
+<label for="alias">Alias</label>
   <div>
-    <input type="text" name="comment" placeholder="Enter your comment here"  id="comment" required />
-    <button type="submit">Submit</button>
+    <input type="text" name="alias" placeholder="Enter your alias here"  id="alias" required />
+
+  <label for="Name">Enter Comment</label></div>
+  <div>
+	  <textarea type="text" name="comment" placeholder="Enter your comment here"  id="comment" required> Enter comments, Markdown is supported </textarea>
+    <button type="button" onclick="jsonCreator()">Submit</button>
   </div>
 </form>
 
-
-
+<script src="/js/comments.js"></script>
 </div>
 
 	</div><footer class="sk3-flex sk3-flex-center-h sk3-margin-v-full sk3-pad-v-full">
