@@ -1,0 +1,77 @@
+{{define "main"}}
+<div class="main">
+
+	<div></div>
+
+	<!--Title-->
+	{{with .Title}}
+	<heading>
+	<h2>{{.}}</h2>
+	</heading>
+	{{end}}
+
+	<div></div>
+
+	<!--TOC-->
+	{{if (default true .Params.toc)}}
+	{{if and (ge (len .TableOfContents) 100) (ne .Params.toc "false")}}
+	<section class="box sk3-margin-v-full">
+		<div class="collapsible">☰ Table of Content</div>
+		<sk3-toc>{{.TableOfContents}}</sk3-toc>
+	</section>
+	{{end}}
+	{{end}}
+
+	<!--Content-->
+	{{with .Content}}<content class="sk3-margin-v-full">{{.}}</content>{{end}}
+
+	<div></div>
+
+	<!--Page Info-->
+	<section class="sk3-margin-v-full">
+		{{if site.Params.pageinfobox}}
+		{{partial "pageinfo-box.html" .}}
+		{{else}}
+		{{partial "pageinfo.html" .}}
+		{{end}}
+	</section>
+
+	<div></div>
+	<form name="comments" class='comments-form'>
+		<div><h3>Post Comment</h3></div>
+		<div>
+			<input type="text" class='comment-field' name="alias" placeholder="Enter your name here"  id="alias" style="" required />
+		</div>
+		<div>
+			<textarea type="text"  name="comment" placeholder="Enter your comment here"  id="comment" placeholder=" Enter comments, Markdown is supported" required > </textarea>
+		</div><div>    
+			<button type="button" onclick="jsonCreator(alias.value,comment.value)" id="comment-button">Submit</button>
+		</div>
+	</form>
+
+
+	<a href="#solution">View comments</a>
+	<div height="700" style="top:700px;padding-top:300px;"></div>
+	<!-- Fetched Comments -->
+	
+	<div id='solution' class="commentslist"> 	
+		<!--<div class='comments-dest'>
+	
+		<p class='comments-header'>
+		Alias
+		</p>
+		<p class='comments-content'>
+		This is the lorem ipsum comment that I have entered in here and it is to test whether or not I am able to enter a comment here
+		</p>
+		<p class='comments-time'>
+		20th July, 1999 - 5:30 GMT
+		</p>
+		</div>--></div>
+
+
+	<!-- Comments test -->
+
+	<script src="/js/comments.js"></script>
+	<script src="/js/comments-data.js"></script>
+</div>
+{{end}}

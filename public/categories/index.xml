@@ -9,9 +9,27 @@
     <copyright>Free use for all //</copyright>
     <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>math</title>
+      <link>/categories/math/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>question</title>
+      <link>/categories/question/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>example</title>
       <link>/categories/example/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/example/</guid>
       <description></description>
@@ -20,27 +38,9 @@
     <item>
       <title>meta</title>
       <link>/categories/meta/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/themes/</guid>
       <description></description>
     </item>
     

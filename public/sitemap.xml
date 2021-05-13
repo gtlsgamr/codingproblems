@@ -2,56 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/algebra/</loc>
+    <lastmod>2021-05-06T23:34:29+05:30</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
-  </url><url>
-    <loc>/categories/example/</loc>
-    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
-  </url><url>
-    <loc>/tags/guide/</loc>
-    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
-  </url><url>
-    <loc>/tags/html/</loc>
-    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
+    <lastmod>2021-05-07T00:12:02+05:30</lastmod>
   </url><url>
     <loc>/post/linear_solution/</loc>
-    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
+    <lastmod>2021-05-06T23:34:29+05:30</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
+    <loc>/categories/math/</loc>
+    <lastmod>2021-05-06T23:34:29+05:30</lastmod>
   </url><url>
-    <loc>/categories/meta/</loc>
-    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
+    <loc>/categories/question/</loc>
+    <lastmod>2021-05-06T23:34:29+05:30</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2021-05-06T22:26:49+05:30</lastmod>
+    <lastmod>2021-05-07T00:12:02+05:30</lastmod>
+  </url><url>
+    <loc>/categories/example/</loc>
+    <lastmod>2021-05-07T00:12:02+05:30</lastmod>
+  </url><url>
+    <loc>/tags/guide/</loc>
+    <lastmod>2021-05-07T00:12:02+05:30</lastmod>
+  </url><url>
+    <loc>/tags/html/</loc>
+    <lastmod>2021-05-07T00:12:02+05:30</lastmod>
+  </url><url>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2021-05-07T00:12:02+05:30</lastmod>
+  </url><url>
+    <loc>/categories/meta/</loc>
+    <lastmod>2021-05-07T00:12:02+05:30</lastmod>
   </url><url>
     <loc>/post/example/</loc>
-    <lastmod>2021-05-05T22:14:18+05:30</lastmod>
+    <lastmod>2021-05-07T00:12:02+05:30</lastmod>
   </url><url>
     <loc>/archives/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
-    <lastmod>2021-05-05T21:31:07+05:30</lastmod>
-  </url><url>
-    <loc>/post/markdown-syntax/</loc>
-    <lastmod>2021-05-05T21:31:07+05:30</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2021-05-05T21:31:07+05:30</lastmod>
-  </url><url>
-    <loc>/categories/syntax/</loc>
-    <lastmod>2021-05-05T21:31:07+05:30</lastmod>
-  </url><url>
-    <loc>/categories/themes/</loc>
-    <lastmod>2021-05-05T21:31:07+05:30</lastmod>
-  </url><url>
-    <loc>/series/themes-guide/</loc>
-    <lastmod>2021-05-05T21:31:07+05:30</lastmod>
-  </url><url>
     <loc>/about/</loc>
-    <lastmod>2021-05-05T21:56:56+05:30</lastmod>
+    <lastmod>2021-05-06T23:47:45+05:30</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
@@ -61,5 +52,7 @@
   </url><url>
     <loc>/post/</loc>
     <lastmod>2021-05-05T21:31:07+05:30</lastmod>
+  </url><url>
+    <loc>/series/</loc>
   </url>
 </urlset>
